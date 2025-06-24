@@ -1,0 +1,552 @@
+Uri: https://code.jquery.com/jquery-3.7.0.min.js
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\jquery-3.7.0.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiAyp8kv8JHgFVrJJLmE3tF.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\poppins\v21\pxiAyp8kv8JHgFVrJJLmE3tF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLBT5V1s.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\poppins\v21\pxiByp8kv8JHgFVrLBT5V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\poppins\v21\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDD4V1s.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\poppins\v21\pxiByp8kv8JHgFVrLDD4V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\poppins\v21\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\poppins\v21\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLFj_V1s.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\poppins\v21\pxiByp8kv8JHgFVrLFj_V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\poppins\v21\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm111lEA.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm111lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm21llEA.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm21llEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm81xlEA.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm81xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmv1plEA.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmv1plEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmy15lEA.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmy15lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\poppins\v21\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrJJLedw.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\poppins\v21\pxiGyp8kv8JHgFVrJJLedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrLPTedw.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\poppins\v21\pxiGyp8kv8JHgFVrLPTedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pYCP.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pYCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpYCP.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpYCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaooCP.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaooCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapYCP.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapYCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpYCP.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpYCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEooCP.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEooCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao4CP.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao4CP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaooCP.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaooCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoooCP.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoooCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4bbLPrQ.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\raleway\v34\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4bbLPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4cHLPrQ.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\raleway\v34\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4cHLPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejLPrQ.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\raleway\v34\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejLPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejMPrQ.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\raleway\v34\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejMPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4TbMPrQ.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\raleway\v34\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4TbMPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4VrMPrQ.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\raleway\v34\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4VrMPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjMPrQ.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\raleway\v34\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjMPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjNPrQ.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\raleway\v34\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjNPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4Y_LPrQ.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\raleway\v34\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4Y_LPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOiCnqEu92Fr1Mu51QrIzc.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\roboto\v32\KFOiCnqEu92Fr1Mu51QrIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51S7ABc9.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\roboto\v32\KFOjCnqEu92Fr1Mu51S7ABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TjARc9.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\roboto\v32\KFOjCnqEu92Fr1Mu51TjARc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TLBBc9.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\roboto\v32\KFOjCnqEu92Fr1Mu51TLBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TzBhc9.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\roboto\v32\KFOjCnqEu92Fr1Mu51TzBhc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1MmgWxP.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\roboto\v32\KFOkCnqEu92Fr1MmgWxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1Mu52xP.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\roboto\v32\KFOkCnqEu92Fr1Mu52xP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9vAw.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\roboto\v32\KFOlCnqEu92Fr1MmEU9vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmSU5vAw.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\roboto\v32\KFOlCnqEu92Fr1MmSU5vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlvAw.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\roboto\v32\KFOlCnqEu92Fr1MmWUlvAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmYUtvAw.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\roboto\v32\KFOlCnqEu92Fr1MmYUtvAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Me5Q.ttf
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\s\roboto\v32\KFOmCnqEu92Fr1Me5Q.ttf
+Content Type: font/ttf
+
+Uri: https://www.google.com/recaptcha/api.js
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\recaptcha\api-1.js
+Content Type: text/javascript
+
+Uri: https://www.google.com/recaptcha/api.js?hl=uk&v=2.0&unique_parameter=
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.mochkodan.if.ua/
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\index.htm
+Content Type: text/html
+
+Uri: https://www.mochkodan.if.ua/about/
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\about\index.htm
+Content Type: text/html
+
+Uri: https://www.mochkodan.if.ua/contacts/
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\contacts\index.htm
+Content Type: text/html
+
+Uri: https://www.mochkodan.if.ua/doctors/
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\doctors\index.htm
+Content Type: text/html
+
+Uri: https://www.mochkodan.if.ua/media/doctors/bratah.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\media\doctors\bratah.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/media/doctors/farfanyuk.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\media\doctors\farfanyuk.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/media/doctors/kyryk.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\media\doctors\kyryk.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/media/doctors/taras_mochkodan.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\media\doctors\taras_mochkodan.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/media/doctors/yanchinska.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\media\doctors\yanchinska.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/media/works/work-1.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\media\works\work-1.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/media/works/work-2.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\media\works\work-2.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/media/works/work-3.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\media\works\work-3.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/media/works/work-4.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\media\works\work-4.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/media/works/work-5.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\media\works\work-5.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/media/works/work-6.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\media\works\work-6.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/media/works/work-7.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\media\works\work-7.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/media/works/work-8.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\media\works\work-8.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/privacy_policy/
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\privacy_policy\index.htm
+Content Type: text/html
+
+Uri: https://www.mochkodan.if.ua/services/
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\services\index.htm
+Content Type: text/html
+
+Uri: https://www.mochkodan.if.ua/services/dytiacha/
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\services\dytiacha\index.htm
+Content Type: text/html
+
+Uri: https://www.mochkodan.if.ua/services/endodontiia/
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\services\endodontiia\index.htm
+Content Type: text/html
+
+Uri: https://www.mochkodan.if.ua/services/hirurhiia/
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\services\hirurhiia\index.htm
+Content Type: text/html
+
+Uri: https://www.mochkodan.if.ua/services/implantatsiia/
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\services\implantatsiia\index.htm
+Content Type: text/html
+
+Uri: https://www.mochkodan.if.ua/services/ortodontiia/
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\services\ortodontiia\index.htm
+Content Type: text/html
+
+Uri: https://www.mochkodan.if.ua/services/ortopediia/
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\services\ortopediia\index.htm
+Content Type: text/html
+
+Uri: https://www.mochkodan.if.ua/services/profesiina_hihiiena/
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\services\profesiina_hihiiena\index.htm
+Content Type: text/html
+
+Uri: https://www.mochkodan.if.ua/services/restavratsiia/
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\services\restavratsiia\index.htm
+Content Type: text/html
+
+Uri: https://www.mochkodan.if.ua/services/terapiia/
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\services\terapiia\index.htm
+Content Type: text/html
+
+Uri: https://www.mochkodan.if.ua/services/vidbiliuvannia/
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\services\vidbiliuvannia\index.htm
+Content Type: text/html
+
+Uri: https://www.mochkodan.if.ua/static/assets/css/main.css
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\css\main.css
+Content Type: text/css
+
+Uri: https://www.mochkodan.if.ua/static/assets/img/about/about-top.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\img\about\about-top.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/static/assets/img/about/photo-1.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\img\about\photo-1.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/static/assets/img/about/photo-2.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\img\about\photo-2.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/static/assets/img/about/photo-3.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\img\about\photo-3.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/static/assets/img/about/photo-4.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\img\about\photo-4.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/static/assets/img/about/photo-5.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\img\about\photo-5.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/static/assets/img/about/photo-6.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\img\about\photo-6.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/static/assets/img/about/photo-7.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\img\about\photo-7.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/static/assets/img/about/photo-8.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\img\about\photo-8.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/static/assets/img/about/testimonials-1.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\img\about\testimonials-1.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/static/assets/img/about/testimonials-2.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\img\about\testimonials-2.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/static/assets/img/about/testimonials-3.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\img\about\testimonials-3.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/static/assets/img/about/testimonials-4.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\img\about\testimonials-4.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/static/assets/img/apple-touch-icon.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\img\apple-touch-icon.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/static/assets/img/doctors/doctors-top.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\img\doctors\doctors-top.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/static/assets/img/favicon.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\img\favicon.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/static/assets/img/footer/footer-bg.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\img\footer\footer-bg.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/static/assets/img/index/about-1.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\img\index\about-1.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/static/assets/img/index/about-2.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\img\index\about-2.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/static/assets/img/index/cta-bg.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\img\index\cta-bg.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/static/assets/img/index/doctors.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\img\index\doctors.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/static/assets/img/index/hero-bg.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\img\index\hero-bg.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/static/assets/img/index/services-dytiacha.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\img\index\services-dytiacha.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/static/assets/img/index/services-endodontiia.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\img\index\services-endodontiia.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/static/assets/img/index/services-hirurhiia.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\img\index\services-hirurhiia.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/static/assets/img/index/services-implantatsiia.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\img\index\services-implantatsiia.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/static/assets/img/index/services-ortodontiia.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\img\index\services-ortodontiia.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/static/assets/img/index/services-ortopediia.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\img\index\services-ortopediia.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/static/assets/img/index/services-profesiina-hihiiena.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\img\index\services-profesiina-hihiiena.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/static/assets/img/index/services-restavratsiia.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\img\index\services-restavratsiia.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/static/assets/img/index/services-terapiia.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\img\index\services-terapiia.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/static/assets/img/index/services-vidbiliuvannia.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\img\index\services-vidbiliuvannia.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/static/assets/img/logo.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\img\logo.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/static/assets/img/services/dytiacha/dytiacha-top.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\img\services\dytiacha\dytiacha-top.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/static/assets/img/services/endodontiia/endodontiia-top.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\img\services\endodontiia\endodontiia-top.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/static/assets/img/services/hirurhiia/hirurhiia-top.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\img\services\hirurhiia\hirurhiia-top.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/static/assets/img/services/implantatsiia/implantatsiia-top.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\img\services\implantatsiia\implantatsiia-top.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/static/assets/img/services/ortodontiia/ortodontiia-top.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\img\services\ortodontiia\ortodontiia-top.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/static/assets/img/services/ortopediia/ortopediia-top.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\img\services\ortopediia\ortopediia-top.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/static/assets/img/services/profesiina-hihiiena/profesiina-hihiiena-top.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\img\services\profesiina-hihiiena\profesiina-hihiiena-top.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/static/assets/img/services/restavratsiia/restavratsiia-top.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\img\services\restavratsiia\restavratsiia-top.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/static/assets/img/services/terapiia/terapiia-top.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\img\services\terapiia\terapiia-top.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/static/assets/img/services/vidbiliuvannia/vidbiliuvannia-top.webp
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\img\services\vidbiliuvannia\vidbiliuvannia-top.webp
+Content Type: image/webp
+
+Uri: https://www.mochkodan.if.ua/static/assets/js/main.js
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\js\main.js
+Content Type: text/javascript
+
+Uri: https://www.mochkodan.if.ua/static/assets/vendor/aos/aos.css
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\vendor\aos\aos.css
+Content Type: text/css
+
+Uri: https://www.mochkodan.if.ua/static/assets/vendor/aos/aos.js
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\vendor\aos\aos.js
+Content Type: text/javascript
+
+Uri: https://www.mochkodan.if.ua/static/assets/vendor/bootstrap-icons/bootstrap-icons.css
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\vendor\bootstrap-icons\bootstrap-icons.css
+Content Type: text/css
+
+Uri: https://www.mochkodan.if.ua/static/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2?dd67030699838ea613ee6dbda90effa6
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\vendor\bootstrap-icons\fonts\bootstrap-icons.woff2
+Content Type: font/woff2
+
+Uri: https://www.mochkodan.if.ua/static/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff?dd67030699838ea613ee6dbda90effa6
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\vendor\bootstrap-icons\fonts\bootstrap-icons.woff
+Content Type: font/woff
+
+Uri: https://www.mochkodan.if.ua/static/assets/vendor/bootstrap/css/bootstrap.min.css
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\vendor\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.mochkodan.if.ua/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\vendor\bootstrap\js\bootstrap.bundle.min.js
+Content Type: text/javascript
+
+Uri: https://www.mochkodan.if.ua/static/assets/vendor/glightbox/css/glightbox.min.css
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\vendor\glightbox\css\glightbox.min.css
+Content Type: text/css
+
+Uri: https://www.mochkodan.if.ua/static/assets/vendor/glightbox/js/glightbox.min.js
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\vendor\glightbox\js\glightbox.min.js
+Content Type: text/javascript
+
+Uri: https://www.mochkodan.if.ua/static/assets/vendor/imagesloaded/imagesloaded.pkgd.min.js
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\vendor\imagesloaded\imagesloaded.pkgd.min.js
+Content Type: text/javascript
+
+Uri: https://www.mochkodan.if.ua/static/assets/vendor/purecounter/purecounter_vanilla.js
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\static\assets\vendor\purecounter\purecounter_vanilla.js
+Content Type: text/javascript
+
+Uri: https://www.mochkodan.if.ua/works/
+File Name: C:\Users\Користувач\Desktop\dentist_clinik\www.mochkodan.if.ua\works\index.htm
+Content Type: text/html
+
